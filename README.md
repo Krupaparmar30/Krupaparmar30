@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with **Best Teachers**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Aayush014?tab=repositories](https://github.com/Aayush014?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/Aayush014?tab=repositories](https://github.com/Krupaparmar30?tab=repositories)
 
 - 💬 Ask me about **C , C++ , Dart , Flutter**
 
