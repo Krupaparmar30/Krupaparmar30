@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **5646krupaparmar@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/Aayush014](https://github.com/Aayush014)
+- 📄 Know about my experiences [https://github.com/Krupaparmar30](https://github.com/Krupaparmar30)
 
 - ⚡ Fun fact :- **I am Funny :sweat_smile:**
 
