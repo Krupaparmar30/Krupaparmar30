@@ -1,7 +1,6 @@
 ![MasterHead](./github-header-image.png)
 <h1 align="center">A passionate Flutter developer from India</h1>
-<img align="right" alt="Coding" width="450" src="![image](https://github.com/Krupaparmar30/Krupaparmar30/assets/149374671/82dbc177-1f73-4a03-afb2-28e56c77845c)
-">
+<img align="right" alt="Coding" width="450" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flottiefiles.com%2Fanimations%2Fgirl-on-computer-with-idea-vKx1wtZe5l&psig=AOvVaw1eGAgWFVa5Hx8b_thjR_iI&ust=1698919396009000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOi_uYnGooIDFQAAAAAdAAAAABAJ">
 
 # 💫 About Me :-
 
